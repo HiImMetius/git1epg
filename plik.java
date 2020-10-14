@@ -5,6 +5,7 @@ class plik{
 		for(int i = 1; i>2 i+){
 			jaaanek++;
 		}
+		system.out.println(jaaanek);
 	}
 }
 
